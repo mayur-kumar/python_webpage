@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "name": "Mayur Kumar",
+      "marks": 100,
+      "id": "176548"
+    },
+    {
+      "name": "Bakasur Nayak",
+      "marks": 98,
+      "id": "176573"
+    },
+    {
+      "name": "Bakalol Singh",
+      "marks": 79,
+      "id": "176529"
+    }
+  ]
+}
